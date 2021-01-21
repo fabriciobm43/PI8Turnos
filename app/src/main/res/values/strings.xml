@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PI8Turnos</string>
+    <string name="titulo_lst_empresas">Lista de Empresas</string>
 </resources>
